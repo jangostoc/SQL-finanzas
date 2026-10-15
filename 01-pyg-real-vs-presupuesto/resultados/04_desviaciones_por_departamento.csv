@@ -1,0 +1,24 @@
+﻿departamento;cuenta;nombre_cuenta;gasto_real;gasto_ppto;desviacion;pct_desviacion;valoracion;ranking_en_departamento
+Administración;640;Sueldos y salarios;370641.27;360000.0;10641.27;3.0;Sobrecoste;1
+Administración;642;Seguridad Social empresa;114898.8;108000.0;6898.8;6.4;Sobrecoste;2
+Administración;623;Servicios profesionales;74483.72;72000.0;2483.72;3.4;Sobrecoste;3
+Administración;662;Intereses de deudas;30854.87;30000.0;854.87;2.8;Sobrecoste;4
+Administración;628;Suministros;18799.47;18000.0;799.47;4.4;Sobrecoste;5
+Administración;621;Arrendamientos;144662.55;144000.0;662.55;0.5;Sobrecoste;6
+Comercial;640;Sueldos y salarios;535319.14;540000.0;-4680.86;-0.9;Ahorro;1
+Comercial;642;Seguridad Social empresa;165948.94;162000.0;3948.94;2.4;Sobrecoste;2
+Comercial;629;Otros servicios;25268.51;24000.0;1268.51;5.3;Sobrecoste;3
+IT;642;Seguridad Social empresa;92908.38;90000.0;2908.38;3.2;Sobrecoste;1
+IT;623;Servicios profesionales;49105.56;48000.0;1105.56;2.3;Sobrecoste;2
+IT;681;Amortización inmovilizado;36576.1;36000.0;576.1;1.6;Sobrecoste;3
+IT;629;Otros servicios;42390.96;42000.0;390.96;0.9;Sobrecoste;4
+IT;640;Sueldos y salarios;299704.44;300000.0;-295.56;-0.1;Ahorro;5
+Marketing;642;Seguridad Social empresa;67666.11;64800.0;2866.11;4.4;Sobrecoste;1
+Marketing;640;Sueldos y salarios;218277.84;216000.0;2277.84;1.1;Sobrecoste;2
+Marketing;627;Publicidad;182877.64;181500.0;1377.64;0.8;Sobrecoste;3
+Operaciones;600;Compras de mercaderías;2209330.7;2129600.0;79730.7;3.7;Sobrecoste;1
+Operaciones;640;Sueldos y salarios;730577.76;720000.0;10577.76;1.5;Sobrecoste;2
+Operaciones;642;Seguridad Social empresa;226479.09;216000.0;10479.09;4.9;Sobrecoste;3
+Operaciones;681;Amortización inmovilizado;109534.38;108000.0;1534.38;1.4;Sobrecoste;4
+Operaciones;621;Arrendamientos;96912.09;96000.0;912.09;1.0;Sobrecoste;5
+Operaciones;628;Suministros;59562.07;60000.0;-437.93;-0.7;Ahorro;6
